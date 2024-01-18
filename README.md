@@ -3,7 +3,7 @@ How to Play:
 1. **Clone the repositor: **
 ```bash
 https://github.com/meghannulf/Pong.git
-'''bash
+'''
 ##2. **Open the project in Unity: **
   -Open Unity Hub
   -Click on "Add" and select the cloned repository folder
