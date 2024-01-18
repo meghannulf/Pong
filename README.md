@@ -1,2 +1,3 @@
-# Pong
-My github repo for CS383 Pong game
+# Unity Pong Game
+How to Play:
+1. Clone the repository 
